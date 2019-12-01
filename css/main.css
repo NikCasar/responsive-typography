@@ -10,7 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-
+  font-family: Crimson Text, serif;
   color: #222;
 }
 
@@ -46,4 +46,16 @@ blockquote {
 
 .quote {
   color: #999;
+}
+
+@media only and (min-width: 38em) {
+
+}
+
+@media only and (min-width: 60em) {
+
+}
+
+@media only and (min-width: 90em) {
+
 }
